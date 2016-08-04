@@ -1,0 +1,60 @@
+_repo: Travels-in-England-in-1782_5249
+_version: 0.0.1
+alternative_title: Reisen eines Deutschen in England im Jahr 1782. English
+creator:
+  author:
+    agent_name: Moritz, Karl Philipp
+    aliases:
+    - Moritz, Karl Phillip
+    - Moritz, Charles Philip
+    - Moriz, Karl Philipp
+    - Moritz, Carl Philipp
+    - Moritzen, Karl Philipp
+    birthdate: 1756
+    deathdate: 1793
+    gutenberg_agent_id: '1748'
+    url: http://www.gutenberg.org/2009/agents/1748
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Karl_Philipp_Moritz
+    - http://de.wikipedia.org/wiki/Karl_Philipp_Moritz
+description: "Reisen eines Deutschen in England im Jahre 1782 (English: Journeys of\
+  \ a German in England in 1782) is a travel memoir by German author Karl Philipp\
+  \ Moritz. Moritz was a young scholar and Anglophile traveling to England for the\
+  \ first time. His journey was approximately two months during June and July 1782\
+  \ and began in London where he saw famous sights, attended the theater and watched\
+  \ sessions of Parliament. He then set out on foot for Richmond, stopping at Oxford,\
+  \ Derby, Leicester, Peak Cavern and Northampton and back to London. The book was\
+  \ written as a series of letters to Moritz's friend at home and is in two equal\
+  \ parts, the first in London, the second walking about.\nThe first edition was published\
+  \ in Germany in 1783 with a second improved edition in 1785. In 1795 an English\
+  \ translation of the second edition was published as Travels, chiefly on Foot, through\
+  \ several parts of England in 1782, described in Letters to a Friend. It contained\
+  \ many errors and was attributed to the daughter of Charles Godfrey Woide (1725–1790),\
+  \ who himself is described in Chapter 5 \"Information and entertainment\". Despite\
+  \ its flaws, it became the standard translation of the 19th and early 20th centuries.\
+  \ A new translation was published in 1965 by Reginald Nettel and is now the standard\
+  \ English edition.\nIn deciding to complete his journey on foot, Moritz was met\
+  \ with a rude reception. The Inclosure Acts had forced Englands peasants to become\
+  \ employees of land-owners, and those who could not find employment became the \"\
+  wandering poor\" – thus anyone seen walking along the road was identified as a beggar\
+  \ or a thief. For this reason, Moritz experienced considerable problems finding\
+  \ room and board, and was even run out of some villages, simply for arriving into\
+  \ town on foot.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5249'
+  wikidata: Q6296548
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'England -- Description and travel -- Early works to 1800'
+- GITenberg
+title: Travels in England in 1782
+url: http://www.gutenberg.org/ebooks/5249
+wikipedia:
+- https://en.wikipedia.org/wiki/Journeys_of_a_German_in_England_in_1782
