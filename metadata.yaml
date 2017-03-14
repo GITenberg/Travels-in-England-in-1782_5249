@@ -1,6 +1,9 @@
 _repo: Travels-in-England-in-1782_5249
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Reisen eines Deutschen in England im Jahr 1782. English
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Moritz, Karl Philipp
@@ -40,6 +43,8 @@ description: "Reisen eines Deutschen in England im Jahre 1782 (English: Journeys
   \ or a thief. For this reason, Moritz experienced considerable problems finding\
   \ room and board, and was even run out of some villages, simply for arriving into\
   \ town on foot.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5249#Travels-in-England-in-1782
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
